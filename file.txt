@@ -1,2 +1,5 @@
+HEAD
 привет
 мир
+fffffff
+branch1
